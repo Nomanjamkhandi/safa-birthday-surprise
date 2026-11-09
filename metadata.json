@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Safa (Pariii)",
+  "description": "A magical, interactive birthday surprise website made with lots of care for Safa (Pariii).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
